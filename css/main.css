@@ -26,6 +26,7 @@ body {
     background-color: rgb(235, 195, 64);
     display: flex;
     justify-content: center;
+    height:fit-content;
     align-items: center;
     width: 100%;
     position: sticky;
@@ -382,6 +383,7 @@ body {
     background-color: rgb(235, 195, 64);
     display: float;
     box-sizing: border-box;
+    height:fit-content;
     align-items: center;
     width: 100%;
     position: sticky;
